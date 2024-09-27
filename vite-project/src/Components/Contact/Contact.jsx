@@ -11,8 +11,7 @@ const Contact = () => {
           <div className="flexColStart c-left">
             <span className="orangeText">Our Contacts</span>
             <span className="primaryText">Easy to contact us</span>
-            <span className="secondaryText">We always ready to help by providing the best server 
-              believe a good place to live can make your life better </span>
+            <span className="secondaryText">We are always ready to assist you because we believe a good place to live can make your life better. We are committed to providing the best service and housing solutions.</span>
               <div className="flexColStart contactModes">
                 {/* first row */}
                 <div className="flexStart row">
@@ -23,7 +22,7 @@ const Contact = () => {
                       </div>
                       <div className="flexColStart detail">
                         <span className="primaryText">Call</span>
-                        <span className="secondaryText">021 123 145 14</span>
+                        <span className="secondaryText">+1 301 573 9956</span>
                       </div>
                     </div>
                     <div className="flexCenter button">Call Now</div> 
@@ -35,8 +34,8 @@ const Contact = () => {
                         <BsFillChatDotsFill size={25}/> 
                       </div>
                       <div className="flexColStart detail">
-                        <span className="primaryText">Chat</span>
-                        <span className="secondaryText">021 123 145 14</span>
+                        <span className="primaryText">WhatsApp</span>
+                        <span className="secondaryText">+88 01818730682</span>
                       </div>
                     </div>
                     <div className="flexCenter button">Chat Now</div> 
@@ -50,11 +49,11 @@ const Contact = () => {
                         <BsFillChatDotsFill size={25}/>
                       </div>
                       <div className="flexColStart detail">
-                        <span className="primaryText">Video Call</span>
-                        <span className="secondaryText">021 123 145 14</span>
+                        <span className="primaryText">Email</span>
+                        <span className="secondaryText">zflina3e@gmail.com</span>
                       </div>
                     </div>
-                    <div className="flexCenter button">Video Call Now</div> 
+                    <div className="flexCenter button">Mail Now</div> 
                   </div>
                   {/* fourth mode */}
                   <div className="flexColCenter mode">
@@ -63,8 +62,8 @@ const Contact = () => {
                         <HiChatBubbleBottomCenter size={25}/> 
                       </div>
                       <div className="flexColStart detail">
-                        <span className="primaryText">Message</span>
-                        <span className="secondaryText">021 123 145 14</span>
+                        <span className="primaryText">Text</span>
+                        <span className="secondaryText">+1 301 573 9956</span>
                       </div>
                     </div>
                     <div className="flexCenter button">Message Now</div> 

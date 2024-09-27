@@ -1,38 +1,38 @@
 [
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Concord Destiny",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Plot-18, Road-15, Dhanmondi, Bangladesh",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Grace Concord",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Plot-2/A, Road-115, Gulshan, Bangladesh",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Concord Rain Lily",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Santinagar, Ramna, Dhaka, Bangladesh",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
+    "name": "Lily Heights",
     "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "detail": "Plot-08, Road-27, Baridhara, Bangladesh",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
+    "name": "Lake City",
     "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "detail": "Moghbazar, Dhaka, Bangladesh",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
+    "name": "Concord Niharika",
     "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "detail": "Block# J, Banani, Dhaka, Bangladesh",
     "image": "./r3.png"
   }
 ]

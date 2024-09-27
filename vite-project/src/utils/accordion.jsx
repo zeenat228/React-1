@@ -6,7 +6,7 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Home is a shelter from storms — all sorts of storms.",
+      "Home is a shelter from storms all sorts of storms.",
   },
   {
     icon: <MdCancel/>,
