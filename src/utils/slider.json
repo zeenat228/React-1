@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Concord Destiny",
+    "price": "47,043",
+    "detail": "Plot-18, Road-15, Dhanmondi, Bangladesh",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Grace Concord",
+    "price": "66,353",
+    "detail": "Plot-2/A, Road-115, Gulshan, Bangladesh",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Concord Rain Lily",
+    "price": "35,853",
+    "detail": "Santinagar, Ramna, Dhaka, Bangladesh",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Lily Heights",
+    "price": "47,043",
+    "detail": "Plot-08, Road-27, Baridhara, Bangladesh",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Lake City",
+    "price": "66,353",
+    "detail": "Moghbazar, Dhaka, Bangladesh",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Concord Niharika",
+    "price": "35,853",
+    "detail": "Block# J, Banani, Dhaka, Bangladesh",
+    "image": "./r3.png"
+  }
+]
