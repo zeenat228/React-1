@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/zeenat228/React-1",
+  "homepage": "https://zeenat228.github.io/React-1",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "framer-motion": "^11.5.4",
